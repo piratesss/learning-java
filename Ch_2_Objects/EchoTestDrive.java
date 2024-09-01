@@ -1,4 +1,4 @@
-package Objects;
+package Ch_2_Objects;
 
 public class EchoTestDrive {
     public static void main(String[] args) {

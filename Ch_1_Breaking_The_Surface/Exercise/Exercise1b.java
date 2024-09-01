@@ -1,4 +1,4 @@
-package Breaking_The_Surface.Exercise;
+package Ch_1_Breaking_The_Surface.Exercise;
 
 class Exercise1b {
 

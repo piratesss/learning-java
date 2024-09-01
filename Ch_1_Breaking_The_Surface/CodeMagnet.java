@@ -1,4 +1,4 @@
-package Breaking_The_Surface;
+package Ch_1_Breaking_The_Surface;
 
 public class CodeMagnet {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class CodeMagnet {
                 System.out.print('a');
                 System.out.print('-');
             }
-            
+
             if (x == 2) {
                 System.err.print("b c");
                 System.out.print('-');

@@ -1,4 +1,4 @@
-package Objects;
+package Ch_2_Objects;
 
 public class DrumKitTestDrive {
 

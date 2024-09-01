@@ -1,4 +1,4 @@
-package Breaking_The_Surface;
+package Ch_1_Breaking_The_Surface;
 
 class Test {
 
